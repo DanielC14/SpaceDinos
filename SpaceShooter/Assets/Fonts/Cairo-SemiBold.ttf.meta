@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 2e768732abe809a47b497e7ce4c4b8ed
+timeCreated: 1517170446
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cairo
+  fontNames:
+  - Cairo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1b05e892bfffd5c439dfcda41b50d40c, type: 3}
+  - {fileID: 12800000, guid: 0b0fea8f3d7d7ac44af3adbe1abe5652, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
